@@ -1,6 +1,6 @@
 #  Overheidsactiviteiten #
 
-[Vereniging Nederlandse Gemeenten](https://www.vng.nl) Published a [list of government activities]()https://vng.nl/files/vng/brieven/2014/attachments/20140709_aanzet-voor-een-lijst-met-overheidsactiviteiten.pdf in 2014 related to their public rights and laws which allow them to use certain data.
+[Vereniging Nederlandse Gemeenten](https://www.vng.nl) Published a [list of government activities](https://vng.nl/files/vng/brieven/2014/attachments/20140709_aanzet-voor-een-lijst-met-overheidsactiviteiten.pdf) in 2014 related to their public rights and laws which allow them to use certain data.
 
 This script extracts all tables from a multipage pdf and export to JSON, CSV or TSV and parses the table to a system readable json array.
 
