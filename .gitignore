@@ -1,0 +1,7 @@
+*.jar
+.env
+*.ini
+*.pyc
+.ipynb_checkpoints
+__pycache__
+/venv
